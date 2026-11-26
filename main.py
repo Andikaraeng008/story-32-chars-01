@@ -4,7 +4,7 @@ The name is exactly 32 characters, the most the gate allows, and its
 last word is the twist: a baby's first word is not mama or dada.
 """
 
-SSID = "Our Baby's First Word Was Buffer"  # 32 characters, gate limit
+SSID = "He Proposed on the WiFi Password"  # 32 characters, gate limit
 
 
 def main() -> None:
