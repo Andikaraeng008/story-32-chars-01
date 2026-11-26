@@ -1,10 +1,10 @@
 """Write the winning Wi-Fi network name to /output/entry.txt.
 
-The name is exactly 32 characters, the most the gate allows, and its
-last word is the twist: a baby's first word is not mama or dada.
+The name is 29 characters, and its last words are the twist: he
+proposed, and the WiFi said no.
 """
 
-SSID = "He Proposed on the WiFi Password"  # 32 characters, gate limit
+SSID = "He Proposed, the WiFi Said No"  # 29 characters
 
 
 def main() -> None:
